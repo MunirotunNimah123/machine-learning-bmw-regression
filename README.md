@@ -1,4 +1,5 @@
 # 📊 Machine Learning Project - BMW Sales Prediction
+Perbandingan Algoritma Linear Regression, Decision Tree, dan Random Forest dalam Prediksi Penjualan Mobil BMW
 
 ## 📌 Deskripsi
 Project ini bertujuan untuk memprediksi penjualan mobil BMW menggunakan metode regresi.
@@ -28,4 +29,4 @@ Model terbaik: Random Forest
 R² Score: 0.91
 
 ## 👩‍💻 Author
-Munirotun Ni'mah
+Munirotun Ni'mah (F1G123010)
